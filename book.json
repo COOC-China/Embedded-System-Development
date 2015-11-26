@@ -2,6 +2,7 @@
     "title": "嵌入式系统底层开发",
     "description": "嵌入式系统底层开发",
     "plugins": [
+	"collapsible-menu",
         "livereload",
       	"disqus"
     ],
