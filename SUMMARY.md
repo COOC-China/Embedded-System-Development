@@ -24,3 +24,4 @@
 	* [Linux源码和Android源码介绍](/content/2.4.md)
 		* [Linux源码简介](/content/2.4.1.md)
 		* [Android源码简介](/content/2.4.2.md)
+* [演示文稿](/content/slide.md)
