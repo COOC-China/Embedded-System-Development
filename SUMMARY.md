@@ -1,11 +1,11 @@
 # Summary
 
 * [第一章 嵌入式系统导论](/content/1.md)
-	* [嵌入式系统概述](/content/1.1.md)
-		* [嵌入式系统定义](/content/1.1.1.md)
-		* [嵌入式系统构成](/content/1.1.2.md)
-		* [移动电话系统](/content/1.1.3.md)
-		* [基于ARM的移动电话硬件结构](/content/1.1.4.md)
+	* [嵌入式系统概述](/content/1.1.1.md)
+		* [嵌入式系统定义]()
+		* [嵌入式系统构成]()
+		* [移动电话系统]()
+		* [基于ARM的移动电话硬件结构]()
 	* [嵌入式系统开发Galileo与A20](/content/1.2.md)
 		* [硬件构成](/content/1.2.1.md)
 		* [嵌入式系统](/content/1.2.2.md)
@@ -24,4 +24,4 @@
 	* [Linux源码和Android源码介绍](/content/2.4.md)
 		* [Linux源码简介](/content/2.4.1.md)
 		* [Android源码简介](/content/2.4.2.md)
-* [演示文稿](/content/slide.md)
+* [课程讲义](/content/slide.md)
