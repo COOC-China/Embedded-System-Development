@@ -1,6 +1,18 @@
 {
     "title": "嵌入式系统底层开发",
     "description": "嵌入式系统底层开发",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "COOC China": "https://cooc-china.github.io/"
+        }
+    },
     "plugins": [
 	"collapsible-menu",
         "livereload",
@@ -13,5 +25,6 @@
   	},
     "styles": {
         "website": "styles/website.css"
-    }
+    },
+    "language":"en"
 }
