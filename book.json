@@ -2,29 +2,30 @@
     "title": "嵌入式系统底层开发",
     "description": "嵌入式系统底层开发",
     "links": {
-        "sharing": {
-            "all": null,
-            "facebook": null,
-            "google": null,
-            "twitter": null,
-            "weibo": null
-        },
         "sidebar": {
-            "COOC China": "https://cooc-china.github.io/"
+            "COOC China": "https://cooc-china.github.io/",
+			"参与贡献":"https://github.com/COOC-China/Embedded-System-Development-Book.git"
         }
     },
     "plugins": [
-	"collapsible-menu",
-        "livereload",
-      	"disqus"
-    ],
+		"duoshuo"
+	],
     "pluginsConfig": {
-    	"disqus": {
-    		"shortName": "embeddedsystemdevelopmentbook"
+        "sharing": {
+            "weibo": true,
+            "twitter":false,
+            "facebook":false,
+            "google":false,
+            "instapaper":false,
+            "vk":false,
+            "all":["weibo"]
+        },
+    	"duoshuo": {
+    		"short_name": "embeddedsystemdevelopment"
     	}
   	},
     "styles": {
         "website": "styles/website.css"
     },
-    "language":"en"
+    "language":"zh-hans"
 }
